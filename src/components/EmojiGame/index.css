@@ -1,0 +1,11 @@
+.bg {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+.emoji-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: auto;
+  margin-top: 40px;
+}

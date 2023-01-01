@@ -1,0 +1,23 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  color: #ffffff;
+  background-color: #ffffff33;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.logo-container {
+  display: flex;
+  width: 15%;
+}
+.heading {
+  font-size: 15px;
+}
+.scores-container {
+  display: flex;
+  width: 15%;
+  justify-content: space-between;
+}
+.win-lose-display {
+  display: none;
+}
